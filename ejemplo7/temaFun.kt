@@ -11,7 +11,7 @@ fun mostrarMayor(v1: Int, v2: Int, v3: Int){
             print(v3)
 }
 
-fun main(parametro: Array<String>){
+fun main(){
     print("Ingresa el primer valor:")
     val valor1 = readln().toInt()
     print("Ingresa el segundo valor:")
